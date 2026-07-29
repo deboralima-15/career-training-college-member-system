@@ -32,19 +32,20 @@ This academic project was developed as part of my Diploma of Information Technol
 
 The goal was to create an internal system for Career Training College staff to manage member records.
 
+
 ## Project Preview
 
 ### Login Page
 
-![Login page](./login-page.png)
+![Login page](./login-page.png.png)
 
 ### Members List
 
-![Members list](./members-list.png)
+![Members list](./members-list.png.png)
 
 ### Add Member Page
 
-![Add member page](./add-member-page.png)
+![Add member page](./add-member-page.png.png)
 
 ## Important Note
 
