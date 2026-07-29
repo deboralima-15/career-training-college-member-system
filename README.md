@@ -34,7 +34,17 @@ The goal was to create an internal system for Career Training College staff to m
 
 ## Project Preview
 
-Screenshots of the login page and member management interface will be added here.
+### Login Page
+
+![Login page](login-page.png)
+
+### Members List
+
+![Members list](members-list.png)
+
+### Add Member Page
+
+![Add member page](add-member-page.png)
 
 ## Important Note
 
