@@ -36,15 +36,15 @@ The goal was to create an internal system for Career Training College staff to m
 
 ### Login Page
 
-![Login page](login-page.png)
+![Login page](./login-page.png)
 
 ### Members List
 
-![Members list](members-list.png)
+![Members list](./members-list.png)
 
 ### Add Member Page
 
-![Add member page](add-member-page.png)
+![Add member page](./add-member-page.png)
 
 ## Important Note
 
